@@ -14,11 +14,7 @@ Skills: HTML / CSS3 / JavaScript/ C++
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nazib-07)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nazib-07)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazib-07&show_icons=true&theme=onedark)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazib-07&show_icons=true&theme=transparent)
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Nazib-07/contributions?format=svg&private=false)  
 
