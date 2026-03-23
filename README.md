@@ -16,7 +16,5 @@ Skills: HTML / CSS3 / JavaScript/ C++
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazib-07&show_icons=true&theme=onedark)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Nazib-07/contributions?format=svg&private=false)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Nazib-07)  
 
