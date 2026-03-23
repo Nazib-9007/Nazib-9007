@@ -6,10 +6,10 @@ I am an undergraduate student currently studying Information and Communication E
 
 Skills: HTML / CSS3 / JavaScript/ C++
 
-- 🔭 I’m currently working on Shikho 
+- 🔭 I’m currently working on Shikho as a drawer
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about Web Development (HTML, CSS, JavaScript)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nazib-07)  
