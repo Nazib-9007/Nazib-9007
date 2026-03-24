@@ -1,4 +1,4 @@
-# Hi there 👋, Hi! I'm Nazib
+# Hi! I'm Nazib
 ## Web Developer | Front-end Development
 ![Web Developer | Front-end Development](https://media.licdn.com/dms/image/v2/D5616AQF-pycCeaYcLQ/profile-displaybackgroundimage-shrink_350_1400/B56Z0b_nYMHoAY-/0/1774291157381?e=1775692800&v=beta&t=8uUvUagmvF8i4lBgPfVttALE69do8nYroToI4J7f774)
 
