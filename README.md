@@ -4,7 +4,7 @@
 
 Skills: HTML / CSS / Javascript / C++
 
-- 🔭 I’m currently working on https://shikho.com/ as Drawer
+- 🔭 I’m currently working on https://shikho.com/ as drawer
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on GitHub 
 
