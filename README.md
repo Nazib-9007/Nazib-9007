@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazib</h1>
 <h3 align="center">Web Development | Front-end-development</h3>
 
-- 🔭 I’m currently working on Shikho **Drawer**
+- 🔭 I’m currently working on Shikho as a **Drawer**
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, React**
 
