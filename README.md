@@ -32,15 +32,15 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Nazib-9007">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nazib-9007&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="Nazib-9007's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nazib-9007&cache_seconds=7200&layout=compact&theme=synthwave&border_radius=10" alt="Nazib-9007's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Nazib-9007&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Nazib-9007's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Nazib-9007&theme=synthwave&hide_border=true&cache_seconds=86400" alt="Nazib-9007's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Nazib-9007&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nazib's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Nazib-9007&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nazib's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Nazib-9007&theme=nightowl&radius=10" alt="Nazib-9007's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Nazib-9007&theme=synthwave&radius=10" alt="Nazib-9007's Activity Graph" />
 </p>
 
 
@@ -89,7 +89,7 @@
 
 <p align="center">
   <a href="https://github.com/Nazib-9007">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nazib-9007&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nazib-9007&langs_count=8&layout=compact&theme=synthwave&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
