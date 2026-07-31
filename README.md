@@ -1,5 +1,8 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Nazib</h1>
-<h3 align="center">ICE Student</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Nazib&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ICE%20Student&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Stay%20hungry%2C%20Stay%20Foolish" alt="Typing introduction" />
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Nazib-9007">
@@ -9,8 +12,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
-#📌 About Me
-- I  am an undergraduate student currently studying Information and Communication Engineering at the Bangladesh University of Professionals (BUP), Dhaka, Bangladesh.I have simple knowledge in multiple programming languages including Java, C, C++ and JavaScript along with practical experience in HTML and CSS. I am also highly passionate about Web Development, 2d Animation & professional video editing. I continuously expanding my expertise in modern technologies.
+## 📌 About Me
+- I am an undergraduate student currently studying Information and Communication Engineering at the Bangladesh University of Professionals (BUP), Dhaka, Bangladesh.I have simple knowledge in multiple programming languages including Java, C, C++ and JavaScript along with practical experience in HTML and CSS. I am also highly passionate about Web Development, 2d Animation & professional video editing. I continuously expanding my expertise in modern technologies.
 - 🔭 I’m currently working on Shikho as a Drawer
 - 👯 I’m looking to collaborate on github
 - 🤝 I’m looking for help with
@@ -19,22 +22,27 @@
 - ⚡ Fun fact 2D animation
 
 
-# 🧠 My Focus Areas
+## 🧠 My Focus Areas
 - Web Development
 - Software Development
 - Ai / ML
 - Software/System Testing
 
-# 💻 Tech Stack:
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white)
 
-# 📊 GitHub Stats:
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Nazib-9007&show_icons=true&theme=dracula&hide_border=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazib-9007&theme=dracula&hide_border=false&layout=compact)
-  
-</div>
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Nazib-9007">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nazib-9007&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="Nazib-9007's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Nazib-9007&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Nazib-9007's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Nazib-9007&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nazib's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Nazib-9007&theme=nightowl&radius=10" alt="Nazib-9007's Activity Graph" />
+</p>
+
 
 ## 🛠️ Languages & Tools
 
@@ -72,6 +80,7 @@
 
 <h3 align="center">Tools</h3>
 <p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
@@ -80,7 +89,7 @@
 
 <p align="center">
   <a href="https://github.com/Nazib-9007">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nazib-9007&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nazib-9007&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
@@ -91,14 +100,11 @@
 <p align="center">
   <a href="mailto:nazib9007.ice.bup@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://nazib-9007.github.io/Portfolio/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
-
-## 💬 Quote
-> Stay Hungry
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
