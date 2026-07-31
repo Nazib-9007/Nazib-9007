@@ -9,7 +9,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
+#📌 About Me
 - I  am an undergraduate student currently studying Information and Communication Engineering at the Bangladesh University of Professionals (BUP), Dhaka, Bangladesh.I have simple knowledge in multiple programming languages including Java, C, C++ and JavaScript along with practical experience in HTML and CSS. I am also highly passionate about Web Development, 2d Animation & professional video editing. I continuously expanding my expertise in modern technologies.
 - 🔭 I’m currently working on Shikho as a Drawer
 - 👯 I’m looking to collaborate on github
@@ -19,7 +19,7 @@
 - ⚡ Fun fact 2D animation
 
 
-## 🧠 My Focus Areas
+# 🧠 My Focus Areas
 - Web Development
 - Software Development
 - Ai / ML
@@ -28,14 +28,12 @@
 # 💻 Tech Stack:
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Nazib-9007&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Nazib-9007&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nazib-9007&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Nazib-9007&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nazib-9007&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazib-9007&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Nazib-9007&icon=4&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🛠️ Languages & Tools
 
