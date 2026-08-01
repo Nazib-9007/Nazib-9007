@@ -16,20 +16,19 @@
 - I am an undergraduate student currently studying Information and Communication Engineering at the Bangladesh University of Professionals (BUP), Dhaka, Bangladesh.I have simple knowledge in multiple programming languages including Java, C, C++ and JavaScript along with practical experience in HTML and CSS. I am also highly passionate about Web Development, 2d Animation & professional video editing. I continuously expanding my expertise in modern technologies.
 - 🔭 I’m currently working on Shikho as a Drawer
 - 👯 I’m looking to collaborate on github
-- 🤝 I’m looking for help with
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python
 - 💬 Ask me about JavaScript
 - ⚡ Fun fact 2D animation
 
 
-## 🧠 My Focus Areas
+# 🧠 My Focus Areas
 - Web Development
 - Software Development
 - Ai / ML
 - Software/System Testing
 
 
-## 📊 GitHub Stats & Trophies
+# 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Nazib-9007">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nazib-9007&cache_seconds=7200&layout=compact&theme=synthwave&border_radius=10" alt="Nazib-9007's GitHub Stats" />
@@ -44,7 +43,7 @@
 </p>
 
 
-## 🛠️ Languages & Tools
+# 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -55,7 +54,7 @@
 
 </p>
 
-<h3 align="center">Frontend</h3>
+<h2 align="center">Frontend</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,21 +63,21 @@
 
 </p>
 
-<h3 align="center">Backend</h3>
+<h2 align="center">Backend</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
 
 </p>
 
-<h3 align="center">Database</h3>
+<h2 align="center">Database</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
 
 </p>
 
-<h3 align="center">Tools</h3>
+<h2 align="center">Tools</h2>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -96,7 +95,7 @@
 ![Top language](https://stats.pphat.top/languages?username=Nazib-9007)
 <br/>
 
-## 🔗 Connect with Me
+# 🔗 Connect with Me
 <p align="center">
   <a href="mailto:nazib9007.ice.bup@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
