@@ -12,104 +12,46 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-- I am an undergraduate student currently studying Information and Communication Engineering at the Bangladesh University of Professionals (BUP), Dhaka, Bangladesh.I have simple knowledge in multiple programming languages including Java, C, C++ and JavaScript along with practical experience in HTML and CSS. I am also highly passionate about Web Development, 2d Animation & professional video editing. I continuously expanding my expertise in modern technologies.
-- 🔭 I’m currently working on Shikho as a Drawer
-- 👯 I’m looking to collaborate on github
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python
-- 💬 Ask me about JavaScript
-- ⚡ Fun fact 2D animation
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=S%20M%20Nazib%20Ul%20Alam&fontSize=50&fontColor=fff&animation=twinkling)
 
+<div align="center">
 
-# 🧠 My Focus Areas
-- Web Development
-- Software Development
-- Ai / ML
-- Software/System Testing
+### ICE Student
 
+</div>
 
-# 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Nazib-9007">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nazib-9007&cache_seconds=7200&layout=compact&theme=synthwave&border_radius=10" alt="Nazib-9007's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Nazib-9007&theme=synthwave&hide_border=true&cache_seconds=86400" alt="Nazib-9007's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Nazib-9007&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nazib's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Nazib-9007&theme=synthwave&radius=10" alt="Nazib-9007's Activity Graph" />
-</p>
+![About](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=About%20Me&fontSize=22&fontColor=fff)
 
+I am an undergraduate student currently studying Information and Communication Engineering at the Bangladesh University of Professionals (BUP), Dhaka, Bangladesh. I have simple knowledge in multiple programming languages including Java, C, C++ and JavaScript along with practical experience in HTML and CSS. I am also highly passionate about Web Development, 2D Animation & professional video editing.
 
-# 🛠️ Languages & Tools
+- 🏢 Working at **Shikho** in **Dhaka, Bangladesh**
+- 🌱 Currently learning **HTML, CSS, JavaScript, Python**
+- 💬 Ask me about **JavaScript, Web Development, 2D Animation**
+- ⚡ 2D animation
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+![Skills](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff)
 
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-333?style=for-the-badge&logo=c++&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-333?style=for-the-badge&logo=vscode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-333?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-333?style=for-the-badge&logo=postman&logoColor=white) ![Web Development](https://img.shields.io/badge/Web%20Development-333?style=for-the-badge&logo=webdevelopment&logoColor=white) ![Software Development](https://img.shields.io/badge/Software%20Development-333?style=for-the-badge&logo=softwaredevelopment&logoColor=white) ![AI / ML](https://img.shields.io/badge/AI%20%2F%20ML-333?style=for-the-badge&logo=ai/ml&logoColor=white) ![Software/System Testing](https://img.shields.io/badge/Software%2FSystem%20Testing-333?style=for-the-badge&logo=software/systemtesting&logoColor=white)
 
-<h2 align="center">Frontend</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+![Stats](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=GitHub%20Stats&fontSize=22&fontColor=fff)
 
-</p>
+<div align="center">
 
-<h2 align="center">Backend</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nazib-9007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nazib-9007&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
-<h2 align="center">Database</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+</div>
 
-</p>
+![Connect](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Connect&fontSize=22&fontColor=fff)
 
-<h2 align="center">Tools</h2>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+<div align="center">
 
-</p>
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nazib-9007.github.io/Portfolio/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazib9007.ice.bup@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nazib-9007)
 
-<p align="center">
-  <a href="https://github.com/Nazib-9007">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nazib-9007&langs_count=8&layout=compact&theme=synthwave&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+</div>
 
-![Top language](https://stats.pphat.top/languages?username=Nazib-9007)
-<br/>
-
-# 🔗 Connect with Me
-<p align="center">
-  <a href="mailto:nazib9007.ice.bup@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://nazib-9007.github.io/Portfolio/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer)
 
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
