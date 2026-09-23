@@ -14,7 +14,7 @@
 
 <div align="center">
 
-## ICE Student
+## ICE Student at BUP
 
 </div>
 
