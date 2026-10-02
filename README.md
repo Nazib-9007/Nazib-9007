@@ -14,7 +14,7 @@
 
 <div align="center">
 
-## ICE Student at BUP
+## ICE Student
 
 </div>
 
@@ -22,7 +22,7 @@
 - I am an undergraduate student currently studying Information and Communication Engineering at the Bangladesh University of Professionals (BUP), Dhaka, Bangladesh. I have simple knowledge in multiple programming languages including Java, C, C++ and JavaScript along with practical experience in HTML, CSS, CSS framework Tailwindcss and JavaScript UI library React Js. I am also highly passionate about Web Development, 2d Animation & professional video editing. I continuously expanding my expertise in modern technologies.
 - 🔭 I’m currently working on Shikho as a Drawer
 - 👯 I’m looking to collaborate on github
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React Js, Python
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React Js, Python & Typescript
 - 💬 Ask me about JavaScript
 - ⚡ Fun fact 2D animation
 
