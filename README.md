@@ -14,23 +14,36 @@
 
 <div align="center">
 
-## ICE Student
 
 </div>
 
-# 📌 About Me
-- I am an undergraduate student currently studying Information and Communication Engineering at the Bangladesh University of Professionals (BUP), Dhaka, Bangladesh. I have simple knowledge in multiple programming languages including Java, C, C++ and JavaScript along with practical experience in HTML, CSS, CSS framework Tailwindcss and JavaScript UI library React Js. I am also highly passionate about Web Development, 2d Animation & professional video editing. I continuously expanding my expertise in modern technologies.
-- 🔭 I’m currently working on Shikho as a Drawer
-- 👯 I’m looking to collaborate on github
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React Js, Python & Typescript
-- 💬 Ask me about JavaScript
-- ⚡ Fun fact 2D animation
 
-# 🧠 My Focus Areas
-- Web Development
-- Software Development
-- Ai / ML
-- Software/System Testing
+# Hi, I'm Nazib
+
+## Information and Communication Engineering Undergrade \| Aspiring Developer
+
+I'm an undergraduate student pursuing **Information and Communication
+Engineering at Bangladesh University of Professionals (BUP), Dhaka,
+Bangladesh**. I'm passionate about building useful digital experiences,
+exploring modern technologies, and continuously improving my technical
+skills.
+
+My interests include **web development, software development, artificial
+intelligence and machine learning, 2D animation, and professional video
+editing**. I enjoy learning by building projects, experimenting with new
+tools, and solving practical problems.
+
+# About Me 🤵🏻‍♂️
+
+-   🎓 Studying Information and Communication Engineering at **BUP**
+-   💻 Interested in **web development** and **software development**
+-   🎨 Interested in **2D animation** and **professional video editing**
+-   🌱 Currently learning **HTML, CSS, JavaScript, React, Python, and
+    FastApi**
+-   🤝 Open to collaborating on interesting projects and learning with
+    other developers
+-   💬 Feel free to ask me about **JavaScript and Python**
+-   🧩 Currently working on **Shikho as a Drawer**
 
 
 # 📊 GitHub Stats & Trophies
